@@ -1,0 +1,32 @@
+package com.gramazski.triangle.entity;
+
+/**
+ * Created by gs on 05.12.2016.
+ */
+//Add equals, check situation when construct with two same points - return false
+public class Point {
+    private int x;
+    private int y;
+
+    public Point(int x, int y){
+        this.x = x;
+        this.y = y;
+    }
+
+    public int getX(){
+        return x;
+    }
+
+    public int getY(){
+        return y;
+    }
+
+    public void setX(int x){
+        this.x = x;
+    }
+
+    public void setY(int y) {
+        this.y = y;
+    }
+
+}

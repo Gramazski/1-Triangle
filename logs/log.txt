@@ -1,0 +1,394 @@
+2016-12-06T00:52:44,929 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T00:52:44,936 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T00:58:28,406 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-06T00:59:48,215 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T00:59:48,221 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T01:01:47,012 [ERROR] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-06T01:03:28,330 [ERROR] (TriangleProjectLogic.java:40) - Data file does not exist. File name: src/main/resources/test/wrong/sixCharacters.txt
+2016-12-06T01:04:02,607 [ERROR] (TriangleProjectLogic.java:40) - Data file does not exist. File name: src/main/resources/test/wrong/sixCharacters.txt
+2016-12-06T01:04:52,708 [ERROR] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-06T01:05:57,090 [ERROR] (TriangleProjectLogic.java:40) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-06T01:07:25,970 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-06T01:07:25,974 [ERROR] (TriangleProjectLogic.java:40) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-06T01:07:25,976 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T01:07:26,030 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T01:07:26,034 [ERROR] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-06T01:07:26,041 [ERROR] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-06T16:28:15,738 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-06T16:28:15,743 [ERROR] (TriangleProjectLogic.java:40) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-06T16:28:15,751 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T16:28:16,076 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T16:28:16,084 [ERROR] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-06T16:28:16,189 [ERROR] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-06T16:35:31,872 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T16:35:31,954 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T16:35:51,389 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T16:35:51,394 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T16:37:02,871 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T16:37:02,877 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T16:40:26,755 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T16:40:26,762 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T16:41:36,815 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T16:41:36,821 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T16:44:37,700 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T16:44:37,705 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T16:44:49,011 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T16:44:49,017 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T16:49:40,689 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T16:49:40,696 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T16:51:14,846 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T16:51:14,852 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T16:52:01,015 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T16:52:01,021 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T17:01:50,648 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T17:01:50,653 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T17:02:01,297 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T17:02:01,302 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T17:02:09,360 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T17:02:09,366 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T17:02:20,419 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-06T17:02:20,427 [ERROR] (TriangleProjectLogic.java:40) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-06T17:02:20,428 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T17:02:20,434 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T17:02:20,435 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T17:02:20,436 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T17:02:20,438 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T17:02:20,439 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T17:02:20,441 [ERROR] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-06T17:02:20,443 [ERROR] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-06T17:02:20,444 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T17:02:20,446 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T17:02:20,448 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T17:02:20,449 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T17:16:28,303 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-06T17:16:28,308 [ERROR] (TriangleProjectLogic.java:40) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-06T17:16:28,310 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T17:16:28,311 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T17:16:28,312 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T17:16:28,313 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T17:16:28,319 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T17:16:28,320 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T17:16:28,322 [ERROR] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-06T17:16:28,323 [ERROR] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-06T17:16:28,325 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T17:16:28,326 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-06T17:16:28,328 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-06T17:16:28,328 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-07T09:19:42,608 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-07T09:19:42,633 [ERROR] (TriangleProjectLogic.java:40) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-07T09:19:42,643 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-07T09:19:42,644 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-07T09:19:42,654 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-07T09:19:42,655 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-07T09:19:42,668 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-07T09:19:42,668 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-07T09:19:42,694 [ERROR] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-07T09:19:42,731 [ERROR] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-07T09:19:42,736 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-07T09:19:42,737 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-07T09:19:42,743 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-07T09:19:42,743 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-07T09:29:05,832 [FATAL] (TriangleProjectLogic.java:40) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-07T09:32:24,797 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-07T09:32:24,803 [FATAL] (TriangleProjectLogic.java:40) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-07T09:32:24,804 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-07T09:32:24,805 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-07T09:32:24,807 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-07T09:32:24,808 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-07T09:32:24,809 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-07T09:32:24,809 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-07T09:32:24,811 [ERROR] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-07T09:32:24,813 [ERROR] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-07T09:32:24,814 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-07T09:32:24,815 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-07T09:32:24,816 [INFO ] (TriangleProjectLogic.java:33) - Figure was create.
+2016-12-07T09:32:24,816 [INFO ] (TriangleProjectLogic.java:35) - Figure handler was create.
+2016-12-09T22:26:12,739 [ERROR] (TriangleProjectLogic.java:45) - Incorrect points values in array.
+2016-12-09T22:26:12,783 [FATAL] (TriangleProjectLogic.java:42) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-09T22:26:12,823 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:26:12,825 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:26:12,837 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:26:12,837 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:26:12,850 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:26:12,850 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:26:12,932 [FATAL] (TriangleProjectLogic.java:42) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-09T22:26:12,944 [FATAL] (TriangleProjectLogic.java:42) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-09T22:26:12,954 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:26:12,954 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:26:12,968 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:26:12,969 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:41:52,681 [ERROR] (TriangleProjectLogic.java:45) - Incorrect points values in array.
+2016-12-09T22:41:52,686 [FATAL] (TriangleProjectLogic.java:42) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-09T22:41:52,687 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:41:52,688 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:41:52,689 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:41:52,690 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:41:52,740 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:41:52,741 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:41:52,742 [FATAL] (TriangleProjectLogic.java:42) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-09T22:41:52,743 [FATAL] (TriangleProjectLogic.java:42) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-09T22:41:52,744 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:41:52,745 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:41:52,755 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:41:52,756 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:42:29,348 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:42:29,352 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:43:13,139 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:43:13,145 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:43:56,723 [ERROR] (TriangleProjectLogic.java:45) - Incorrect points values in array.
+2016-12-09T22:43:56,727 [FATAL] (TriangleProjectLogic.java:42) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-09T22:43:56,729 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:43:56,730 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:43:56,731 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:43:56,731 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:43:56,741 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:43:56,741 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:43:56,743 [FATAL] (TriangleProjectLogic.java:42) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-09T22:43:56,744 [FATAL] (TriangleProjectLogic.java:42) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-09T22:43:56,745 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:43:56,745 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:43:56,747 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:43:56,748 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:44:04,356 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:44:04,361 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:45:35,302 [ERROR] (TriangleProjectLogic.java:45) - Incorrect points values in array.
+2016-12-09T22:45:35,306 [FATAL] (TriangleProjectLogic.java:42) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-09T22:45:35,307 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:45:35,308 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:45:35,309 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:45:35,310 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:45:35,311 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:45:35,311 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:45:35,313 [FATAL] (TriangleProjectLogic.java:42) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-09T22:45:35,314 [FATAL] (TriangleProjectLogic.java:42) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-09T22:45:35,315 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:45:35,315 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:45:35,316 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:45:35,316 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:45:56,642 [ERROR] (TriangleProjectLogic.java:45) - Incorrect points values in array.
+2016-12-09T22:45:56,647 [FATAL] (TriangleProjectLogic.java:42) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-09T22:45:56,648 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:45:56,650 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:45:56,651 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:45:56,651 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:45:56,652 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:45:56,653 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:45:56,654 [FATAL] (TriangleProjectLogic.java:42) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-09T22:45:56,656 [FATAL] (TriangleProjectLogic.java:42) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-09T22:45:56,657 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:45:56,657 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T22:45:56,660 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T22:45:56,661 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T23:21:57,926 [ERROR] (TriangleProjectLogic.java:45) - Incorrect points values in array.
+2016-12-09T23:21:57,931 [FATAL] (TriangleProjectLogic.java:42) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-09T23:21:57,932 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T23:21:57,933 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T23:21:57,934 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T23:21:57,935 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T23:21:57,936 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T23:21:57,936 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T23:21:57,948 [FATAL] (TriangleProjectLogic.java:42) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-09T23:21:57,950 [FATAL] (TriangleProjectLogic.java:42) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-09T23:21:57,950 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T23:21:57,951 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T23:21:57,952 [INFO ] (TriangleProjectLogic.java:35) - Figure was create.
+2016-12-09T23:21:57,952 [INFO ] (TriangleProjectLogic.java:37) - Figure handler was created.
+2016-12-09T23:28:51,450 [ERROR] (TriangleProjectLogic.java:40) - Incorrect points values in array.
+2016-12-09T23:28:51,455 [FATAL] (TriangleProjectLogic.java:37) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-09T23:28:51,456 [INFO ] (TriangleProjectLogic.java:30) - Figure was created.
+2016-12-09T23:28:51,457 [INFO ] (TriangleProjectLogic.java:32) - Figure handler was created.
+2016-12-09T23:28:51,458 [INFO ] (TriangleProjectLogic.java:30) - Figure was created.
+2016-12-09T23:28:51,458 [INFO ] (TriangleProjectLogic.java:32) - Figure handler was created.
+2016-12-09T23:28:51,460 [INFO ] (TriangleProjectLogic.java:30) - Figure was created.
+2016-12-09T23:28:51,461 [INFO ] (TriangleProjectLogic.java:32) - Figure handler was created.
+2016-12-09T23:28:51,462 [FATAL] (TriangleProjectLogic.java:37) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-09T23:28:51,464 [FATAL] (TriangleProjectLogic.java:37) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-09T23:28:51,466 [INFO ] (TriangleProjectLogic.java:30) - Figure was created.
+2016-12-09T23:28:51,466 [INFO ] (TriangleProjectLogic.java:32) - Figure handler was created.
+2016-12-09T23:28:51,467 [INFO ] (TriangleProjectLogic.java:30) - Figure was created.
+2016-12-09T23:28:51,467 [INFO ] (TriangleProjectLogic.java:32) - Figure handler was created.
+2016-12-09T23:38:36,726 [FATAL] (TriangleProjectLogic.java:37) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-09T23:38:36,739 [FATAL] (TriangleProjectLogic.java:37) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-09T23:38:36,741 [INFO ] (TriangleProjectLogic.java:30) - Figure was created.
+2016-12-09T23:38:36,742 [INFO ] (TriangleProjectLogic.java:32) - Figure handler was created.
+2016-12-09T23:38:36,743 [INFO ] (TriangleProjectLogic.java:30) - Figure was created.
+2016-12-09T23:38:36,743 [INFO ] (TriangleProjectLogic.java:32) - Figure handler was created.
+2016-12-09T23:38:36,745 [FATAL] (TriangleProjectLogic.java:37) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-09T23:38:36,746 [INFO ] (TriangleProjectLogic.java:30) - Figure was created.
+2016-12-09T23:38:36,746 [INFO ] (TriangleProjectLogic.java:32) - Figure handler was created.
+2016-12-09T23:38:36,747 [INFO ] (TriangleProjectLogic.java:30) - Figure was created.
+2016-12-09T23:38:36,747 [INFO ] (TriangleProjectLogic.java:32) - Figure handler was created.
+2016-12-09T23:38:36,748 [INFO ] (TriangleProjectLogic.java:30) - Figure was created.
+2016-12-09T23:38:36,749 [INFO ] (TriangleProjectLogic.java:32) - Figure handler was created.
+2016-12-09T23:38:36,750 [ERROR] (TriangleProjectLogic.java:40) - Incorrect points values in array.
+2016-12-09T23:46:35,747 [ERROR] (TriangleProjectLogic.java:30) - Can't initialize figure: invalid parameter.
+2016-12-09T23:46:59,438 [ERROR] (TriangleProjectLogic.java:30) - Can't initialize figure: invalid parameter.
+2016-12-10T00:08:51,811 [FATAL] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-10T00:08:51,816 [ERROR] (TriangleProjectLogic.java:30) - Can't initialize figure: invalid parameter.
+2016-12-10T00:08:51,817 [FATAL] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-10T00:08:51,819 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-10T00:08:51,820 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-10T00:08:51,821 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-10T00:08:51,821 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-10T00:08:51,823 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-10T00:08:51,824 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-10T00:08:51,825 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-10T00:08:51,826 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-10T00:08:51,826 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-10T00:08:51,827 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-10T00:08:51,827 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-10T00:08:51,829 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-12T10:50:12,637 [FATAL] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-12T10:50:12,656 [ERROR] (TriangleProjectLogic.java:30) - Can't initialize figure: invalid parameter.
+2016-12-12T10:50:12,675 [FATAL] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-12T10:50:12,682 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T10:50:12,683 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T10:50:12,689 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T10:50:12,689 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T10:50:12,717 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-12T10:50:12,723 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T10:50:12,723 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T10:50:12,744 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T10:50:12,744 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T10:50:12,749 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T10:50:12,750 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T10:50:12,762 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-12T11:02:03,941 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T11:02:03,944 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T11:03:21,348 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T11:03:21,352 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T11:04:24,842 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T11:04:24,853 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T11:07:05,332 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T11:07:06,005 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T11:20:01,101 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T11:20:01,109 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T11:21:45,968 [FATAL] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-12T11:21:45,973 [ERROR] (TriangleProjectLogic.java:30) - Can't initialize figure: invalid parameter.
+2016-12-12T11:21:45,974 [FATAL] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-12T11:21:45,975 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T11:21:45,976 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T11:21:45,977 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T11:21:45,978 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T11:21:45,979 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-12T11:21:45,980 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T11:21:45,980 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T11:21:45,982 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T11:21:45,982 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T11:21:45,984 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T11:21:45,984 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T11:21:45,985 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-12T12:02:53,961 [FATAL] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-12T12:02:53,969 [ERROR] (TriangleProjectLogic.java:30) - Can't initialize figure: invalid parameter.
+2016-12-12T12:02:53,970 [FATAL] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-12T12:02:53,975 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T12:02:53,980 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T12:02:53,983 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T12:02:53,983 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T12:02:53,988 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-12T12:02:53,992 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T12:02:53,995 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T12:02:53,997 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T12:02:54,000 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T12:02:54,001 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T12:02:54,001 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T12:02:54,002 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-12T16:41:50,786 [FATAL] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-12T16:41:50,805 [ERROR] (TriangleProjectLogic.java:30) - Can't initialize figure: invalid parameter.
+2016-12-12T16:41:50,810 [FATAL] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-12T16:41:50,849 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T16:41:50,850 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T16:41:50,862 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T16:41:50,862 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T16:41:50,893 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-12T16:41:50,898 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T16:41:50,898 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T16:41:50,907 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T16:41:50,907 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T16:41:50,914 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T16:41:50,914 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T16:41:50,919 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-12T17:08:28,402 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:08:28,406 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:08:28,408 [FATAL] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5
+2016-12-12T17:08:28,409 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:08:28,409 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:08:28,410 [ERROR] (TriangleProjectLogic.java:30) - Can't initialize figure: invalid parameter.
+2016-12-12T17:08:28,411 [FATAL] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f
+2016-12-12T17:08:28,411 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:08:28,412 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:08:28,412 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-12T17:08:28,413 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:08:28,415 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:08:28,417 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:08:28,417 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:08:28,420 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-12T17:17:48,021 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:17:48,025 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:17:48,028 [FATAL] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5;
+2016-12-12T17:17:48,029 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:17:48,029 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:17:48,030 [ERROR] (TriangleProjectLogic.java:30) - Can't initialize figure: invalid parameter.
+2016-12-12T17:17:48,031 [FATAL] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f;
+2016-12-12T17:17:48,032 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:17:48,033 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:17:48,033 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-12T17:17:48,035 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:17:48,036 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:17:48,037 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:17:48,037 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:17:48,039 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-12T17:20:19,186 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/right/squareData.txt
+2016-12-12T17:20:19,199 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/wrong/fiveCoordinates.txt
+2016-12-12T17:20:19,200 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/right/perimeterData.txt
+2016-12-12T17:20:19,201 [ERROR] (TriangleProjectLogic.java:30) - Can't initialize figure: invalid parameter.
+2016-12-12T17:20:19,202 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/wrong/sixCharacters.txt
+2016-12-12T17:20:19,203 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/right/rectData.txt
+2016-12-12T17:20:19,204 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/wrong/fileDoesNotExist.txt
+2016-12-12T17:20:19,205 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/right/data.txt
+2016-12-12T17:20:19,209 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/wrong/rectData.txt
+2016-12-12T17:20:19,211 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/wrong/threePointsInLine.txt
+2016-12-12T17:21:51,183 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:21:51,187 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:21:51,190 [FATAL] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5;
+2016-12-12T17:21:51,191 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/logic/test/right/perimeterData.txt
+2016-12-12T17:21:51,200 [ERROR] (TriangleProjectLogic.java:30) - Can't initialize figure: invalid parameter.
+2016-12-12T17:21:51,201 [FATAL] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f;
+2016-12-12T17:21:51,203 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:21:51,204 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:21:51,204 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/logic/wrong/fileDoesNotExist.txt
+2016-12-12T17:21:51,206 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:21:51,206 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:21:51,208 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:21:51,209 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:21:51,211 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-12T17:22:13,609 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:22:13,613 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:22:13,616 [FATAL] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5;
+2016-12-12T17:22:13,617 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:22:13,617 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:22:13,618 [ERROR] (TriangleProjectLogic.java:30) - Can't initialize figure: invalid parameter.
+2016-12-12T17:22:13,621 [FATAL] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f;
+2016-12-12T17:22:13,622 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:22:13,623 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:22:13,623 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/logic/wrong/fileDoesNotExist.txt
+2016-12-12T17:22:13,625 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:22:13,625 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:22:13,627 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:22:13,627 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:22:13,629 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
+2016-12-12T17:31:13,100 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:31:13,105 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:31:13,108 [FATAL] (TriangleProjectLogic.java:43) - Invalid count of points coordinates in file. Data: 1;2;3;4;5;
+2016-12-12T17:31:13,110 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:31:13,111 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:31:13,111 [ERROR] (TriangleProjectLogic.java:30) - Can't initialize figure: invalid parameter.
+2016-12-12T17:31:13,113 [FATAL] (TriangleProjectLogic.java:43) - Invalid points coordinates - not a numbers. Data: a;b;c;d;e;f;
+2016-12-12T17:31:13,114 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:31:13,115 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:31:13,116 [FATAL] (TriangleProjectLogic.java:43) - Data file does not exist. File name: src/main/resources/test/logic/wrong/fileDoesNotExist.txt
+2016-12-12T17:31:13,118 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:31:13,118 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:31:13,119 [INFO ] (TriangleProjectLogic.java:36) - Figure was created.
+2016-12-12T17:31:13,120 [INFO ] (TriangleProjectLogic.java:38) - Figure handler was created.
+2016-12-12T17:31:13,121 [ERROR] (TriangleProjectLogic.java:46) - Incorrect points values in array.
